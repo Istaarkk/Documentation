@@ -50,31 +50,17 @@
             }
           },
           {
-            "id": "e6d10eee8b3c52bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.0 JTAG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.0 JTAG"
-            }
-          },
-          {
             "id": "ae2cc75e0a069d32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Hardware/1.0 Protocoles.md",
+                "file": "6-Hardware/3.0 JTAG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.0 Protocoles"
+              "title": "3.0 JTAG"
             }
           }
         ],
@@ -240,12 +226,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "e6d10eee8b3c52bd",
+  "active": "ae2cc75e0a069d32",
   "lastOpenFiles": [
-    "Pasted image 20251211141035.png",
+    "6-Hardware/4.0 Alimentation & Découplage.md",
+    "6-Hardware/3.0 JTAG.md",
     "6-Hardware/2.0 Conception électronique Hardware.md",
-    "3.0 JTAG.md",
     "6-Hardware/1.0 Protocoles.md",
+    "6-Hardware/AGENTS.md",
+    "3.0 JTAG.md",
+    "Pasted image 20251211141035.png",
     "bordel.md",
     "6-Hardware/Pasted image 20251211112756.png",
     "6-Hardware/Pasted image 20251211112730.png",
