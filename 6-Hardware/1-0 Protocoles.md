@@ -35,5 +35,5 @@
 ![[Pasted image 20251211110555.png]]
 
 SPI :
-![[Pasted image 20251211110607.png]]
-![[Pasted image 20251211110623.png]]
+
+![[Pasted image 20251211110607.png]] ![[Pasted image 20251211110623.png]]
