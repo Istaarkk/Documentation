@@ -25,3 +25,15 @@
 | USB       | 2 diff.     | Très élevée  | Moyenne      | Paquets      | PC, mobiles             |
 | PCIe      | Lanes diff. | Extrême      | Très courte  | Point à point| GPU, NVMe               |
 
+
+
+#### UARTS :
+![[Pasted image 20251211110530.png]]
+
+
+#### I²C : 
+![[Pasted image 20251211110555.png]]
+
+SPI :
+![[Pasted image 20251211110607.png]]
+![[Pasted image 20251211110623.png]]
