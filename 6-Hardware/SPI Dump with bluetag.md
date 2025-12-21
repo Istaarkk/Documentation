@@ -60,7 +60,7 @@
 
 ## Connecting to the BlueTag (RP2040)
 
-### 1️⃣ Identify the USB serial interface  
+### Identify the USB serial interface  
 List the connected serial devices to locate the BlueTag interface:
 
 ```bash
@@ -98,11 +98,10 @@ another example:
 sudo flashrom -p serprog:dev=/dev/ttyACM13:115200 -r flashBackup.bin
 ```
 
-
-puis pour extraire les partitions 
+In order to extract partitions : 
 
 ```bash
-dd if=realdump.bin of=squashfs1 skip=617707520 bs=1 status=progress count=77205756
+dd if=flash.bin of=squashfs1 skip=617707520 bs=1 status=progress count=77205756
 ```
 
 and 
